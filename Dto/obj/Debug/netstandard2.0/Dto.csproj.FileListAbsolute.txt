@@ -1,0 +1,9 @@
+D:\Core\CRMSense\Dto\bin\Debug\netstandard2.0\Dto.deps.json
+D:\Core\CRMSense\Dto\bin\Debug\netstandard2.0\Dto.dll
+D:\Core\CRMSense\Dto\bin\Debug\netstandard2.0\Dto.pdb
+D:\Core\CRMSense\Dto\obj\Debug\netstandard2.0\Dto.csprojAssemblyReference.cache
+D:\Core\CRMSense\Dto\obj\Debug\netstandard2.0\Dto.csproj.CoreCompileInputs.cache
+D:\Core\CRMSense\Dto\obj\Debug\netstandard2.0\Dto.AssemblyInfoInputs.cache
+D:\Core\CRMSense\Dto\obj\Debug\netstandard2.0\Dto.AssemblyInfo.cs
+D:\Core\CRMSense\Dto\obj\Debug\netstandard2.0\Dto.dll
+D:\Core\CRMSense\Dto\obj\Debug\netstandard2.0\Dto.pdb

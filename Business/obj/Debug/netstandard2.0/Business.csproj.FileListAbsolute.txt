@@ -1,0 +1,14 @@
+D:\Core\CRMSense\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\Core\CRMSense\Business\bin\Debug\netstandard2.0\Business.dll
+D:\Core\CRMSense\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\Core\CRMSense\Business\bin\Debug\netstandard2.0\Dto.dll
+D:\Core\CRMSense\Business\bin\Debug\netstandard2.0\Entity.dll
+D:\Core\CRMSense\Business\bin\Debug\netstandard2.0\Dto.pdb
+D:\Core\CRMSense\Business\bin\Debug\netstandard2.0\Entity.pdb
+D:\Core\CRMSense\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\Core\CRMSense\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\Core\CRMSense\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\Core\CRMSense\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\Core\CRMSense\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\Core\CRMSense\Business\obj\Debug\netstandard2.0\Business.dll
+D:\Core\CRMSense\Business\obj\Debug\netstandard2.0\Business.pdb
